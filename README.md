@@ -53,6 +53,7 @@ The accuracy of the Gradient Boosting algorithm is about 73%. \
 The accuracy of the Decision Tree algorithm is about 72.7%. \
 The accuracy of the logistic regression algorithm is about 72.2%. \
 The accuracy of the random forest algorithm is about 71%.
+These predictions can help insurance agencies to work on respective cases based on type of accidents.
 
 
 References:
