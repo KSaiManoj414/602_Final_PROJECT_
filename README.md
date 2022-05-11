@@ -3,7 +3,7 @@
 The is the final part of the project is the ML project on Maryland Statewide Vehicle Crashes dataset. This is the public dataset from the Maryland open data source(https://opendata.maryland.gov/). This is a jupyter notebook and used python language to code. The dataset represents the vehicle crashes across the Maryland state. This dataset has 771145 rows and 56 columns. These features include the time, place, cause, weather, road type etc related to the accidents. The dataset is downloaded in CSV format and used for the project. The dataset was cleaned by handling null values, missing values and any improper data.
 
 Dataset source link: https://opendata.maryland.gov/widgets/65du-s3qu
-
+Youtube link: https://www.youtube.com/watch?v=ZOOaziAsFPY&t=5s
 Project Overflow:
 1) Extracting data from the dataset source
 2) Cleaning the data - Dealing with null values and duplicated values. 
